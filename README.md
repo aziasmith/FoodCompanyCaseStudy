@@ -34,6 +34,6 @@ This box and whisker plot shows the variation of the average number of order by 
 # Final Conclusion
 Upon first glance of the bar chart, it looks like Indian and Thai cuisines have the most orders. But, the pie chart shows that 65.48% of the total average orders come from Italian and Thai cuisines. Italian has the highest average number of orders with 34.57% and Continential has the lowest average number of orders with 14.63%. 
 
-In the box and whisker plot, the lines going through the boxes of the box and whisker plots are the medians. Italian has the highest median value and Indian has the lowest median value. Indian cuisine has three data outliers and Thai has two data outliers. 
+In the box and whisker plot, Italian has the highest median value and Indian has the lowest median value. Indian cuisine has three data outliers and Thai has two data outliers. 
 
-My recommendation would be to use Italian and Thai cuisines for the overall brand identity and remove the Indian and Continental food items from the menu. With the Indian meals that are outliers in the data, I would suggest to offer those dishes as a special occassionaly and use it as a promotion tool. 
+My recommendation would be to use Italian and Thai cuisines for the overall brand identity and remove the Indian and Continental food items from the menu. With the Indian meals that are outliers in the data, I would suggest to offer those dishes as a special occassionally as a promotion tool. 
