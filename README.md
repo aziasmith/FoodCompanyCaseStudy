@@ -27,5 +27,9 @@ This pie chart represents the percentage of the total orders for each cuisine ty
    
 ![image](https://github.com/aziasmith/FoodCompanyCaseStudy/blob/main/Percent%20of%20Total%20Orders%20by%20Cuisine%20Pie%20Chart.png)
 
+This box and whisker plot shows the variation of the average number of order by cuisine. The box represents the inner 50% of the data and the line going through the box is the median value for each cuisine. The points for the Italian and Thai cusines are the outliers. 
+
+![image](https://github.com/aziasmith/FoodCompanyCaseStudy/blob/main/Box%20and%20Whisker%20Plot.png)
+
 # Final Conclusion
 The visualizations show that 65.48% of the total average orders come from Thai and Italian cuisines. Even with the one Indian dish having the highest amount of average orders, this is an outlier in the data. My recommendation would be to offer that dish as a special occassionaly and use it as a marketing tool. 
