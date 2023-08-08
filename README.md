@@ -15,7 +15,7 @@ This case study is being done by using a [data set](https://www.kaggle.com/datas
 # Data Analysis 
 I cleaned, consolidated, and analyzed my data with R. Initially there were three different data tables to merge into one file. 
 
-View my R script [here](https://github.com/aziasmith/FoodCompanyCaseStudy/blob/main/Food%20Delivery%20Company%20Menu%20Consolidation%20Case%20Study%20Script.pdf)
+View my R script [here](https://github.com/aziasmith/FoodCompanyCaseStudy/blob/main/Food%20Delivery%20Company%20Menu%20Consolidation%20Case%20Study%20Script_2.pdf)
 
 The cleaned and consolidated [data set](https://github.com/aziasmith/FoodCompanyCaseStudy/blob/main/complete_meal_info.csv)
 
