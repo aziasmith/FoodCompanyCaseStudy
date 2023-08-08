@@ -1,4 +1,4 @@
-# Food Delivery Company Menu Consolidation & Brand Identity Case Study
+# Food Delivery Company Brand Identity & Menu Consolidation Case Study
 
 ![image](https://github.com/aziasmith/FoodCompanyCaseStudy/blob/main/online-food-delivery-industry-min.jpg)
 
