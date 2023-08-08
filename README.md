@@ -27,9 +27,13 @@ This pie chart represents the percentage of the total orders for each cuisine ty
    
 ![image](https://github.com/aziasmith/FoodCompanyCaseStudy/blob/main/Percent%20of%20Total%20Orders%20by%20Cuisine%20Pie%20Chart.png)
 
-This box and whisker plot shows the variation of the average number of order by cuisine. The box represents the inner 50% of the data and the line going through the box is the median value for each cuisine. The points for the Italian and Thai cusines are the outliers. 
+This box and whisker plot shows the variation of the average number of order by cuisine. The box represents the inner 50% of the data and the line going through the box is the median value for each cuisine. The points for the Indian and Thai cusines are outliers. 
 
 ![image](https://github.com/aziasmith/FoodCompanyCaseStudy/blob/main/Box%20and%20Whisker%20Plot.png)
 
 # Final Conclusion
-The visualizations show that 65.48% of the total average orders come from Thai and Italian cuisines. Even with the one Indian dish having the highest amount of average orders, this is an outlier in the data. My recommendation would be to offer that dish as a special occassionaly and use it as a marketing tool. 
+Upon first glance of the bar chart, it looks like Indian and Thai cuisines have the most orders. But, the pie chart shows that 65.48% of the total average orders come from Italian and Thai cuisines. Italian has the highest average number of orders with 34.57% and Continential has the lowest average number of orders with 14.63%. 
+
+In the box and whisker plot, the lines going through the boxes of the box and whisker plots are the medians. Italian has the highest median value and Indian has the lowest median value. Indian cuisine has three data outliers and Thai has two data outliers. 
+
+My recommendation would be to use Italian and Thai cuisines for the overall brand identity and remove the Indian and Continental food items from the menu. With the Indian meals that are outliers in the data, I would suggest to offer those dishes as a special occassionaly and use it as a promotion tool. 
