@@ -1,5 +1,4 @@
 # Food Delivery Company Menu Consolidation & Brand Identity Case Study
-Case study project for Google data analytics course
 
 ![image](https://github.com/aziasmith/FoodCompanyCaseStudy/blob/main/online-food-delivery-industry-min.jpg)
 
