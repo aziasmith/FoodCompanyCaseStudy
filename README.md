@@ -3,7 +3,7 @@
 ![image](https://github.com/aziasmith/FoodCompanyCaseStudy/blob/main/online-food-delivery-industry-min.jpg)
 
 # Background
-A food delivery company operates out of multiple cities across the country. They have various fulfillment centers that prepare and distribute the meals that are ordered. They have a wide variety of cuisines and 51 menu items that are offered. They currently offer four different cuisines (Italian, Thai, Indian, and Continental) which makes it difficult to have a solid brand identity. The marketing team would like to establish two cuisines in order to market the brand better. In additon to that, the fulfillment center managers are having staffing issues. A simplified menu would make it easier for the fulfillment centers to train new employees faster. 
+A food delivery company operates out of multiple cities across the country. They have various fulfillment centers that prepare and distribute the meals that are ordered. They have a wide variety of cuisines and 51 menu items that are offered. They currently offer four different cuisines (Italian, Thai, Indian, and Continental) which makes it difficult to have a solid brand identity. The marketing team would like to establish two cuisines in order to market the brand better. In addition to that, the fulfillment center managers are having staffing issues. A simplified menu would make it easier for the fulfillment centers to train new employees faster. 
 
 # Business Task
 In order to simplify the menu and establish the brand identity, I have been tasked to identify which cuisine types and meals are most popular. 
