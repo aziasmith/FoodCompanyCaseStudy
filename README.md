@@ -35,4 +35,4 @@ Upon first glance of the bar chart, it looks like Indian and Thai cuisines have 
 
 In the box and whisker plot, Italian has the highest median value and Indian has the lowest median value. Indian cuisine has three data outliers and Thai has two data outliers. 
 
-My recommendation would be to use Italian and Thai cuisines for the overall brand identity and remove the Indian and Continental food items from the menu. With the Indian meals that are outliers in the data, I would suggest to offer those dishes as a special occassionally as a promotion tool. 
+My recommendation would be to use Italian and Thai cuisines for the overall brand identity and remove the Indian and Continental food items from the menu. With the Indian meals that are outliers in the data, I would suggest to offer those dishes as a special occasionally as a promotion tool. 
